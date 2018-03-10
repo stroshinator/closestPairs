@@ -1,0 +1,54 @@
+10 points test file:
+
+The minimum distance is:
+947.4054042488885: (511, 4721)<--->(1267, 5292)
+
+
+100 points test file:
+
+The minimum distance is:
+90.44335243676011: (1730, 3258)<--->(1758, 3344)
+
+
+1000 points test file:
+
+The minimum distance is:
+47.853944456021594: (42989, 10546)<--->(42980, 10593)
+
+
+10 points test file:
+
+The minimum distance is:
+947.4054042488885: (511, 4721)<--->(1267, 5292)
+
+
+100 points test file:
+
+The minimum distance is:
+90.44335243676011: (1730, 3258)<--->(1758, 3344)
+
+
+1000 points test file:
+
+The minimum distance is:
+47.853944456021594: (42989, 10546)<--->(42980, 10593)
+
+
+10 points test file:
+
+The minimum distance is:
+947.4054042488885: (511, 4721)<--->(1267, 5292)
+
+
+100 points test file:
+
+The minimum distance is:
+90.44335243676011: (1730, 3258)<--->(1758, 3344)
+
+
+1000 points test file:
+
+The minimum distance is:
+47.853944456021594: (42989, 10546)<--->(42980, 10593)
+
+
